@@ -7,7 +7,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Adarsh9814](). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Adarsh9814](https://github.com/Adarsh9814/Portfolio.git). Thanks!
 
 ## Built With
 
